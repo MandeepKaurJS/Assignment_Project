@@ -1,0 +1,11 @@
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\bin\Debug\netcoreapp2.1\InterViewTest.deps.json
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\bin\Debug\netcoreapp2.1\InterViewTest.runtimeconfig.json
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\bin\Debug\netcoreapp2.1\InterViewTest.runtimeconfig.dev.json
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\bin\Debug\netcoreapp2.1\InterViewTest.dll
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\bin\Debug\netcoreapp2.1\InterViewTest.pdb
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\obj\Debug\netcoreapp2.1\InterViewTest.csprojAssemblyReference.cache
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\obj\Debug\netcoreapp2.1\InterViewTest.csproj.CoreCompileInputs.cache
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\obj\Debug\netcoreapp2.1\InterViewTest.AssemblyInfoInputs.cache
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\obj\Debug\netcoreapp2.1\InterViewTest.AssemblyInfo.cs
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\obj\Debug\netcoreapp2.1\InterViewTest.dll
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\InterViewTest\obj\Debug\netcoreapp2.1\InterViewTest.pdb

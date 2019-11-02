@@ -1,0 +1,125 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "98fba13bdd52358bf28b00aada9ed34c243f3a57"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "InterViewTest/1.0.0": {
+        "dependencies": {
+          "Ext.NET": "5.0.0"
+        },
+        "runtime": {
+          "InterViewTest.dll": {}
+        }
+      },
+      "Ext.NET/5.0.0": {
+        "dependencies": {
+          "Ext.NET.Utilities": "2.5.0",
+          "Newtonsoft.Json": "12.0.2",
+          "Transformer.NET": "2.1.1",
+          "WebActivatorEx": "2.2.0"
+        },
+        "runtime": {
+          "lib/net46/Ext.Net.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ext.NET.Utilities/2.5.0": {
+        "runtime": {
+          "lib/Ext.Net.Utilities.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      },
+      "Microsoft.Web.Infrastructure/1.0.0": {
+        "runtime": {
+          "lib/net40/Microsoft.Web.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.20105.407"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Transformer.NET/2.1.1": {
+        "runtime": {
+          "lib/net35/Transformer.NET.dll": {
+            "assemblyVersion": "2.1.1.22883",
+            "fileVersion": "2.1.1.22883"
+          }
+        }
+      },
+      "WebActivatorEx/2.2.0": {
+        "dependencies": {
+          "Microsoft.Web.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "lib/net40/WebActivatorEx.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterViewTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ext.NET/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NXzi6n61VLCj3ecuNzpYsWASBZAaT+/korGxJu+I56Xx0L9ZkL+pURolLZBh13rb1cT546mSQh2UIAN83muENQ==",
+      "path": "ext.net/5.0.0",
+      "hashPath": "ext.net.5.0.0.nupkg.sha512"
+    },
+    "Ext.NET.Utilities/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-964WQno078jRHgF6CfdtU1oPmDm/XNzAKdy+gaN9Oxg/CAA2jCwaF9/Fr8JodViosrz8198C02oQlh0t9AQ+Iw==",
+      "path": "ext.net.utilities/2.5.0",
+      "hashPath": "ext.net.utilities.2.5.0.nupkg.sha512"
+    },
+    "Microsoft.Web.Infrastructure/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg==",
+      "path": "microsoft.web.infrastructure/1.0.0",
+      "hashPath": "microsoft.web.infrastructure.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Transformer.NET/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UemsKkyFffjgmgGFdWa576ezd/MbSW4dLIEWCvPO/sBUtmfNixp/6fxihheXxTUq8PilLdbkXBNBX113lrNCyQ==",
+      "path": "transformer.net/2.1.1",
+      "hashPath": "transformer.net.2.1.1.nupkg.sha512"
+    },
+    "WebActivatorEx/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LpTC82DGzFeqHjRGLvynZKRjjELcsED5f784N4IWEPZhPlJsVYQKVpxNUjNdcMV6YHMqRhEiqolr69UVaT4ciw==",
+      "path": "webactivatorex/2.2.0",
+      "hashPath": "webactivatorex.2.2.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csprojAssemblyReference.cache
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfo.cs
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.deps.json
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.json
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.dll
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.pdb
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.dll
+C:\Users\VrinMan Dulay\Documents\GitHub\Assignment_Project\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.pdb
